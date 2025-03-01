@@ -24,8 +24,6 @@ print()
 
 # Funktion: Zähler
 def release(Pin):
-    #print('Ausgelöst')
-    #print()
     if sensor.value() == 1:
         global count
         count = count + 1
