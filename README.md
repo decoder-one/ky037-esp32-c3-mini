@@ -7,3 +7,5 @@ Ich habe den Sensor anders verkabelt und habe Erfolg gehabt. Vielleicht sind auc
 
 Die Verkabelung steht im Code. Ich habe hier mit einem esp32-c3 mini experimentiert.
 
+Ein fritzing-file für analog ist enthalten.
+
