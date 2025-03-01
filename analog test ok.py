@@ -1,6 +1,6 @@
 '''
-analog test
-pin A0 --> esp32 gpio2
+analog test // ky037 an esp32c3
+pin A0 --> esp32 gpio2 // 3v und ground
 Stellsschraube ziemlich ganz rechts, Ausgabe: "No Sound", bei Geräusch "sound detected"
 led02 auf sensor ist aus, bei Geräuscherkennung blinkt er
 '''
